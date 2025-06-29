@@ -1,4 +1,5 @@
--8175280714:AAGCsUqpcjllOe1KKu1vU1_U4vwMs4fqksg
+/start-8175280714
+8175280714:AAGCsUqpcjllOe1KKu1vU1_U4vwMs4fqksg
 👋 Hi, I’m @kriz963
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
